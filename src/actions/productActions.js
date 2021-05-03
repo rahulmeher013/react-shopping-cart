@@ -45,4 +45,4 @@ export const sortProducts = (filteredProducts, sort) => (dispatch) => {
       items: sortedProducts,
     },
   });
-};
+}; 
